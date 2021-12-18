@@ -1,0 +1,21 @@
+{
+    "cards":[{
+        "img":"images/mobile2.jpg",
+        "name":"samsung m10",
+        "price":"Rs 11000/-",
+        "offer":"Rs 8000/-",
+        "button":"view"
+    },{
+        "img":"images/mobile2.jpg",
+        "name":"samsungA03s",
+        "price":"Rs 19000/-",
+        "offer":"off 14999/-",
+        "button":"view"
+    },{
+        "img":"images/mobile2.jpg",
+        "name":"samsung M21",
+        "price":"Rs 14999/-",
+        "offer":"off 11999/-",
+        "button":"view"
+    }]
+}
